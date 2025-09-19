@@ -1,0 +1,27 @@
+# Ignore temporary files
+temp.txt
+
+# Ignore log files
+*.log
+
+# Ignore node modules
+node_modules/
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore system files
+*.tmp
+*.temp
